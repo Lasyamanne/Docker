@@ -27,11 +27,12 @@
 
 
 # GitLab CI/CD Pipeline for Deployment:
+
 # GitLab Runner Setup:
 
-Install GitLab Runner on your VM.
+#Install GitLab Runner on your VM.
 
-Register the runner with your GitLab instance.
+#Register the runner with your GitLab instance.
 
 # .gitlab-ci.yml Configuration:
 
