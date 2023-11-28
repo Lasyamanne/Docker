@@ -16,3 +16,10 @@
 # Below command to Expose it via Nginx reverse proxy
 
 #sudo apt-get install -y ngnix
+# Creating a nginx configuration file and save that file in specfic path 
+# For example: /etc/nginx/sites-available/reverse-proxy
+# The code as been stored in "reverse-proxy file" 
+# Create a symbolic link to enable the site
+#sudo ln -s /etc/nginx/sites-available/reverse-proxy /etc/nginx/sites-enabled
+# Then Restart the Nginx
+#sudo service nginx restart
