@@ -23,3 +23,16 @@
 #sudo ln -s /etc/nginx/sites-available/reverse-proxy /etc/nginx/sites-enabled
 # Then Restart the Nginx by using below command
 #sudo service nginx restart
+
+
+
+# GitLab CI/CD Pipeline for Deployment:
+# GitLab Runner Setup:
+
+Install GitLab Runner on your VM.
+Register the runner with your GitLab instance.
+# .gitlab-ci.yml Configuration:
+
+#Define stages for your pipeline (e.g., build, test, deploy).
+#Utilize different jobs for each stage, including deployment.
+#Use environment variables for sensitive information.
