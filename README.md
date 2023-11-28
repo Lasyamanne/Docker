@@ -21,5 +21,5 @@
 # The code as been stored in "reverse-proxy file" 
 # Create a symbolic link to enable the site
 #sudo ln -s /etc/nginx/sites-available/reverse-proxy /etc/nginx/sites-enabled
-# Then Restart the Nginx
+# Then Restart the Nginx by using below command
 #sudo service nginx restart
