@@ -7,6 +7,7 @@
 # step-1: creating instance and depolying ubuntu 20.04 on that instance.
 # Below commands are to install docker and docker-compose on ubuntu
 #sudo apt-get update
+
 #sudo apt-get install -y docker.io
 
 #sudo apt-get install -y docker-compose
