@@ -13,6 +13,6 @@
 
 #sudo apt-get install -y docker-compose
 
-#Below command to Expose it via Nginx reverse proxy
+# Below command to Expose it via Nginx reverse proxy
 
-# sudo apt-get install -y ngnix
+#sudo apt-get install -y ngnix
