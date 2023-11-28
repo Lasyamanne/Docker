@@ -34,7 +34,7 @@
 
 #Register the runner with your GitLab instance.
 
-# .gitlab-ci.yml Configuration:
+# .github-ci.yml Configuration:
 
 #Define stages for your pipeline (e.g., build, test, deploy).
 
